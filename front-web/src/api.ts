@@ -12,5 +12,5 @@ export function fetchLocalMapBox(local: string){
 }
 
 export function saveOrder(payload: OrderPayload) {
-    return axios.post(`${API_URL}/orders`, payloa);
+    return axios.post(`${API_URL}/orders`, payload);
 }
