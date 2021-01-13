@@ -1,4 +1,4 @@
-# DSDELIBER 
+# DSDELIVER 
 
 Front feito em ReactJS, aplicando conceitos como:
 - SPA
